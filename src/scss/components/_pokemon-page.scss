@@ -1,0 +1,20 @@
+.pokemon-page {
+  width: auto;
+  height: 430px;
+  &__src {
+    width: 360px;
+    display: flex;
+    margin-left: 35px;
+    float: left;
+  }
+
+  &__info {
+    font-size: 24px;
+    margin-top: 55px;
+  }
+
+  &__h2 {
+    font-size: 42px;
+    text-align: center;
+  }
+}
